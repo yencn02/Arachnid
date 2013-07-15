@@ -11,6 +11,6 @@ Gem::Specification.new do |s|
 
   s.add_dependency('typhoeus',    '0.3.2')
   s.add_dependency('bloomfilter-rb',    '2.1.1')
-  s.add_dependency('nokogiri',    [">= 1.5.0"])
+  s.add_dependency('nokogiri',    [">= 1.4.7"])
   s.add_dependency('domainatrix', '0.0.10')
 end
